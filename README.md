@@ -1,4 +1,4 @@
-# INNOVA Academy - Course Platform Frontend
+# INFNOVA Academy - Course Platform Frontend
 
 A fully responsive course platform built with React, Vite, and Tailwind CSS. This project demonstrates modern frontend development practices with clean component architecture and professional UI/UX design.
 
