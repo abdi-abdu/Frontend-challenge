@@ -1,4 +1,4 @@
-# Project Summary - INNOVA Academy Course Platform
+# Project Summary - INFNOVA Academy Course Platform
 
 ## Overview
 A professional, fully responsive course platform frontend built as a frontend internship challenge. The application showcases modern React development practices with clean architecture and polished UI/UX.
@@ -30,7 +30,7 @@ A professional, fully responsive course platform frontend built as a frontend in
 - Clean, readable code structure
 
 ### Navbar ✓
-- INNOVA logo (left)
+- INFNOVA logo (left)
 - Navigation links: Courses, About, Contact
 - Sign In button (text)
 - Enroll Now button (orange)
@@ -75,7 +75,7 @@ A professional, fully responsive course platform frontend built as a frontend in
 ### Footer ✓
 - Dark navy background
 - Three columns:
-  - About INNOVA Academy
+  - About INFNOVA Academy
   - Quick Links
   - Support
 - Copyright text
@@ -172,9 +172,7 @@ Each course includes:
 
 ## Documentation Provided
 1. **README.md**: Complete project documentation
-2. **QUICKSTART.md**: Fast setup guide
-3. **DEPLOYMENT.md**: Deployment instructions
-4. **PROJECT_SUMMARY.md**: This file
+2. **PROJECT_SUMMARY.md**: This file
 
 ## Setup Time
 - Install: `npm install` (~2 minutes)
@@ -215,5 +213,3 @@ This project demonstrates professional frontend development skills suitable for 
 **Components**: 4 reusable
 **Pages**: 2 fully functional
 **Courses**: 8 with complete data
-
-Ready to deploy and showcase! 🚀
