@@ -1,0 +1,60 @@
+========================================
+INNOVA ACADEMY - INSTALLATION COMMANDS
+========================================
+
+STEP 1: Install Dependencies
+----------------------------
+npm install
+
+
+STEP 2: Start Development Server
+---------------------------------
+npm run dev
+
+
+STEP 3: Open Browser
+---------------------
+http://localhost:5173
+
+
+OPTIONAL: Build for Production
+-------------------------------
+npm run build
+
+
+OPTIONAL: Preview Production Build
+-----------------------------------
+npm run preview
+
+
+========================================
+TROUBLESHOOTING
+========================================
+
+If port 5173 is in use:
+-----------------------
+npm run dev -- --port 3000
+
+
+Clear cache and reinstall:
+--------------------------
+rmdir /s /q node_modules
+del package-lock.json
+npm install
+
+
+Check Node version (needs v16+):
+--------------------------------
+node --version
+
+
+========================================
+QUICK TIPS
+========================================
+
+- Home page: http://localhost:5173/
+- Course details: Click any course card
+- Mobile menu: Resize browser to < 768px
+- Responsive: Test at 375px, 768px, 1024px, 1440px
+
+========================================
